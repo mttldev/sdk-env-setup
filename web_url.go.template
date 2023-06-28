@@ -1,0 +1,9 @@
+package main
+
+import "fmt"
+
+// base_web_urlを編集して、web用のURLを返すようにする
+
+func base_web_url() string {
+    return fmt.Sprintf("https://www.renpy.org/dl/%s/renpy-%s-web.zip", sdk_version(), sdk_version())
+}
