@@ -4,7 +4,7 @@ Setup SDK Environment
 主にWeb Platform Supportのための環境構築を行う
 
 # Develop Setup
-- `web_url.go.template`を`web_url.go`名前を変え、`web_url.go`の中身を適切なものに書き換える
+- `web_url.go.template`を`web_url.go`に名前を変え、`web_url.go`の中身を適切なものに書き換える
 
 # Codes
 - `netutil.go`: [Goでファイルをダウンロードする - Zenn](https://zenn.dev/ohnishi/articles/a0d07a58407022d88674)  
