@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func sdk_version() string {
-    return "8.1.1"
+    return "8.1.3"
 }
 
 func sdk_url() string {
